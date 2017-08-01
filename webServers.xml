@@ -1,8 +1,24 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="14c9bd7f-5d3c-43c8-909b-21f92fc5815c" name="cdc-linux-buildsrv31" url="http://cdc-linux-buildsrv31">
+      <webServer id="1d48dbac-ef78-4a85-a051-25aaa4db0041" name="cdc-linux-buildsrv18" url="http://cdc-linux-buildsrv18">
+        <fileTransfer host="cdc-linux-buildsrv18" port="22" rootFolder="/home/dijack" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="294169f0-6f00-4e04-b931-0f999b4ebaf3" name="cdc-linux-buildsrv31" url="http://cdc-linux-buildsrv31">
         <fileTransfer host="cdc-linux-buildsrv31" port="22" rootFolder="/home/dijack" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="38e7d3ab-2c65-4aca-8732-d08e86822f55" name="cdc-linux-buildsrv9" url="http://cdc-linux-buildsrv9">
+        <fileTransfer host="cdc-linux-buildsrv9" port="22" rootFolder="/home/dijack" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
