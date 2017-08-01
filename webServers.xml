@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14c9bd7f-5d3c-43c8-909b-21f92fc5815c" name="cdc-linux-buildsrv31" url="http://cdc-linux-buildsrv31">
+        <fileTransfer host="cdc-linux-buildsrv31" port="22" rootFolder="/home/dijack" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
