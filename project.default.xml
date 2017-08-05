@@ -5,42 +5,11 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="JsFlowSettings">
-        <service-enabled>false</service-enabled>
-        <exe-path />
-        <annotation-enable>false</annotation-enable>
-        <other-services-enabled>false</other-services-enabled>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="donghai" />
-      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\donghai\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="" />
-        <option name="provider" value="" />
+        <property name="settings.editor.selected.configurable" value="settings.github" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
